@@ -1,6 +1,6 @@
 Generated Search Topic
 
-Please add topic here whening adding generated searches to search_list.txt
+Please add topic here when adding generated searches to search_list.txt
 
 search_lst_1.txt
 Pokemon
