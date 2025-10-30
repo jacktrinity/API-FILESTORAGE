@@ -7,6 +7,7 @@ Pokemon
 Final Fantasy 10
 Whales
 Mega Man X
+Birds
 
 search_lst_2.txt
 Dogs
