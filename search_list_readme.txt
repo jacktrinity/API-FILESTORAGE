@@ -15,3 +15,7 @@ Dogs
 NES Mario
 Paris
 Parrot
+
+search_list_3.txt
+Magic
+Trees
